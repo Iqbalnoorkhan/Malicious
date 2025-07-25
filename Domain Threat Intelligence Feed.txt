@@ -17,3 +17,4 @@ drpkwb0742uue.cloudfront.net
 Scriptapi.dev
 posix.co.za
 xevps.com
+spinstall0.aspx
