@@ -118,12 +118,12 @@ jmpbowl.today
 jmpbowl.top
 jmpbowl.coupons
 srv37746.hosted-by-eurohoster.org
-https://gateway001kir.com
-http://91.215.85.42:3000
-https://grabify.link/SEFKGU
-https://grabify.link/SEFKGU?dry87932wydes/fdsgdsfdsjfkl
+gateway001kir.com
+91.215.85.42:3000
+grabify.link/SEFKGU
+grabify.link/SEFKGU?dry87932wydes/fdsgdsfdsjfkl
 theepad0loc93x.ddns.net
-http://181.231.253.69:4444
+181.231.253.69:4444
 paknavy-pk.org
 pimec-paknavy.updates-installer.store
 cloudlflares.com
