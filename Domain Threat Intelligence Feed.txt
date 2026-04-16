@@ -194,3 +194,6 @@ herculessportslegend.cloudapi.stream
 top.rodeo
 cloudapi.stream
 tg.cloudapi.stream
+wsscertificadosuporte.com.br
+test1.amanur.com
+protocolovirtual.org
