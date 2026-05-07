@@ -275,3 +275,10 @@ pic-editor-chromeextension.uno
 notionapp.cn
 newextensioninstallweb.com
 gosupersonic.email
+www.kaspersky.icu
+www.group-ib.icu
+update.kaspersky.icu
+news.kaspersky.icu
+erp.kaspersky.icu
+cert.kaspersky.icu
+
