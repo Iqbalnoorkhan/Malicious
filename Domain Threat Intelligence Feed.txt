@@ -846,3 +846,17 @@ bookphotohot.pro
 bookphotoreserv.pro
 carrolc.com
 challenge-refernow.com
+img.monderhouse.space
+img.smartnords.site
+img.darklights.store
+img.responsive.pstatic.autos
+img.socialteams.store
+img.worksongo.store
+247.cdnflare.xyz
+windwsecurity.run
+ntp.timesysnc.net
+time.microsft.run
+pool.microsft.studio
+ntp.timesync.to
+ntp.synctime.to
+ntp.syncstime.to
