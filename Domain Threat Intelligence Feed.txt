@@ -1161,7 +1161,6 @@ models.litellm.cloud
 checkmarx.zone
 tpcp-docs / docs-tpcp
 sysmon.py
-.github/workflows/security-audit.yml
 site.vietnam852.com
 ftp.vietnam852.com
 server.vietnam852.com
