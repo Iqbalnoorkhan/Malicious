@@ -1202,3 +1202,6 @@ nginxmysql.com
 sqlserver-sqlite.com
 www.ddduuuppp.com
 cloud-z80lft07.hosteur.net
+top-sec.oss-cn-beijing.aliyuncs.com
+assist-logs.oss-accelerate.aliyuncs.com
+gitee.com
